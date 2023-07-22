@@ -19,6 +19,10 @@ The `SMART_HOME.ipynb` Jupyter Notebook presents important research results and 
 
 The `Architecture and Flow Diagram` folder contains PNG images that visually represent the architecture and flow diagrams for the proposed SMART_HOME system. These diagrams provide a clear overview of the system's design, components, and data flow, facilitating a better understanding of its functionalities.
 
+Important Links:
+- [Architecture Diagram]([link_to_architecture_diagram](https://drive.google.com/file/d/1T_2-ppEIqgxwpW1X1U9QKwAPTFa_nzOG/view?usp=sharing))
+- [Flow Diagram]([link_to_flow_diagram](https://drive.google.com/file/d/1Ad8DxZKmmTJToEhhsIVlwRlYLSpXdx_Z/view?usp=sharing))
+
 ![Architecture of the system](https://github.com/sourabh59-coder/BTP-Smart-Home-/assets/77907942/abe5979c-6c3c-4a53-ad76-8ace8b32b80c)
 
 ![Flow Diagram](https://github.com/sourabh59-coder/BTP-Smart-Home-/assets/77907942/601f75d0-f692-4ba3-b891-de572ac48731)
